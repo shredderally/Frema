@@ -1,0 +1,30 @@
+# Frema's Clothing
+
+> Frema's Clothing is a clothing store in Accra, Ghana selling Ladies Wear, Office Wear, Kids clothes, shoes and bags, and Gents fashion. Customers browse products online, add to cart, checkout with delivery details, and confirm orders on WhatsApp. Prices are in Ghana Cedis (GHS).
+
+## About
+- Frema's Clothing is a fashion retail business in Accra, Ghana.
+- Categories: Ladies Wear, Office Wear, Kids (Shoes, Clothes, Bags), Gents.
+- Currency: Ghana Cedis (GHS).
+- Ordering: Browse products, select size and colour, add to cart, checkout with name, phone, WhatsApp number, delivery location and delivery instructions.
+- Delivery: Delivery fee is confirmed on WhatsApp before dispatch. Delivery across Accra and Ghana.
+- Payment: Online payment via Paystack or Hubtel when configured. Until configured, orders are created as Pending Payment and confirmed by the owner.
+- Contact: WhatsApp number is shown on the website and is configurable in Admin > Settings. Update exact address, phone and hours in Settings.
+
+## Categories
+- Ladies Wear: Women's clothing.
+- Office Wear: Professional and office clothing.
+- Kids - Shoes: Children's shoes.
+- Kids - Clothes: Children's clothing.
+- Kids - Bags: Children's bags.
+- Gents: Men's clothing and products.
+
+## How to Order
+1. Browse a category or search by product name.
+2. Select size and colour where available.
+3. Add to cart and review quantities.
+4. Checkout with full name, phone, WhatsApp, delivery location and instructions.
+5. Confirm delivery fee and payment on WhatsApp.
+
+## Optional
+- FAQs: Questions customers ask about ordering, delivery, payment, sizes and WhatsApp contact.
